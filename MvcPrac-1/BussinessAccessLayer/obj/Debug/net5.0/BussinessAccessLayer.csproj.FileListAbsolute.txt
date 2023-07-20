@@ -1,0 +1,12 @@
+C:\Users\158143\OneDrive - Arrow Electronics, Inc\Training\ThreeTire_MVC_Architecture\MvcPrac-1\BussinessAccessLayer\bin\Debug\net5.0\BussinessAccessLayer.deps.json
+C:\Users\158143\OneDrive - Arrow Electronics, Inc\Training\ThreeTire_MVC_Architecture\MvcPrac-1\BussinessAccessLayer\bin\Debug\net5.0\BussinessAccessLayer.dll
+C:\Users\158143\OneDrive - Arrow Electronics, Inc\Training\ThreeTire_MVC_Architecture\MvcPrac-1\BussinessAccessLayer\bin\Debug\net5.0\ref\BussinessAccessLayer.dll
+C:\Users\158143\OneDrive - Arrow Electronics, Inc\Training\ThreeTire_MVC_Architecture\MvcPrac-1\BussinessAccessLayer\bin\Debug\net5.0\BussinessAccessLayer.pdb
+C:\Users\158143\OneDrive - Arrow Electronics, Inc\Training\ThreeTire_MVC_Architecture\MvcPrac-1\BussinessAccessLayer\obj\Debug\net5.0\BussinessAccessLayer.csproj.AssemblyReference.cache
+C:\Users\158143\OneDrive - Arrow Electronics, Inc\Training\ThreeTire_MVC_Architecture\MvcPrac-1\BussinessAccessLayer\obj\Debug\net5.0\BussinessAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\158143\OneDrive - Arrow Electronics, Inc\Training\ThreeTire_MVC_Architecture\MvcPrac-1\BussinessAccessLayer\obj\Debug\net5.0\BussinessAccessLayer.AssemblyInfoInputs.cache
+C:\Users\158143\OneDrive - Arrow Electronics, Inc\Training\ThreeTire_MVC_Architecture\MvcPrac-1\BussinessAccessLayer\obj\Debug\net5.0\BussinessAccessLayer.AssemblyInfo.cs
+C:\Users\158143\OneDrive - Arrow Electronics, Inc\Training\ThreeTire_MVC_Architecture\MvcPrac-1\BussinessAccessLayer\obj\Debug\net5.0\BussinessAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\158143\OneDrive - Arrow Electronics, Inc\Training\ThreeTire_MVC_Architecture\MvcPrac-1\BussinessAccessLayer\obj\Debug\net5.0\BussinessAccessLayer.dll
+C:\Users\158143\OneDrive - Arrow Electronics, Inc\Training\ThreeTire_MVC_Architecture\MvcPrac-1\BussinessAccessLayer\obj\Debug\net5.0\ref\BussinessAccessLayer.dll
+C:\Users\158143\OneDrive - Arrow Electronics, Inc\Training\ThreeTire_MVC_Architecture\MvcPrac-1\BussinessAccessLayer\obj\Debug\net5.0\BussinessAccessLayer.pdb
